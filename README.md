@@ -5,6 +5,8 @@
 
 <span>[ 中文 | <a href="README_EN.md">English</a> ]</span>
 
+> 新项目[https://github.com/xiaoY233/Chat2API](https://github.com/xiaoY233/Chat2API)已经上线，后续统一进行更新维护，此项目不再更新了
+
 支持高速流式输出、支持多轮对话、支持联网搜索、支持智能体对话、支持探索版、支持K2思考模型、支持长文档解读、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 
 
